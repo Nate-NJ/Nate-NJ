@@ -4,7 +4,7 @@
 
   - [Active Directory Home Lab](https://github.com/Natej2001/Active-Directory-Lab)
   - [Honeypot Lab In Azure](https://github.com/Natej2001/HoneyPot-lab-In-Azure)
-  - [Cybersecurity Vulnerability Management Project](https://github.com/Natej2001/HoneyPot-lab-In-Azure)
+  - [Cybersecurity Vulnerability Management Project](https://github.com/Nate-NJ/Cybersecurity-Vulnerability-Management-Project)
   - [Cavehill Campus Design and implementation Using Packet Tracer](https://github.com/Natej2001/Campus-Network-Design-Using-Packet-Tracer)
 
 <h2>:page_with_curl: Certifications & Certificates:</h2>
