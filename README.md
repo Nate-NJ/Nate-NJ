@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <br/><a href="https://github.com/Natej2001"><a href="linkedin.com/in/nathan-james-3567551aa">Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Nathan! <br/><a href="https://github.com/Natej2001"><a href="linkedin.com/in/nathan-james-3567551aa">Cybersecurity Enthusiast</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
@@ -17,10 +17,7 @@
 
 
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab.COMING SOON]()
-- 
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Nathan James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
