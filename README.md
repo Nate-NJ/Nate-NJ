@@ -7,6 +7,19 @@
   - [Cybersecurity Vulnerability Management Project](https://github.com/Nate-NJ/Cybersecurity-Vulnerability-Management-Project)
   - [Cavehill Campus Design and implementation Using Packet Tracer](https://github.com/Natej2001/Campus-Network-Design-Using-Packet-Tracer)
 
+<h3>Google Cybersecurity Professional Certification Course Projects:</h3>
+
+  - [Conducting an Internal Security Audit]()
+  - [Use the NIST Cybersecurity Framework to Respond to a Security Incident]()
+  - [Use Linux Commands to Manage File Permissions]()
+  - [Apply Filters to SQL Queries]()
+  - [Analyze a Vulnerable System for a Small Business]()
+  - [Document an Incident with an Incident Handler's Journal]()
+  - [Perform a Query with Splunk]()
+  - [Perform a Query with Chronicle]()
+  - [Update a File Through a Python Algorithm]()
+
+
 <h2>:page_with_curl: Certifications & Certificates:</h2>
 
 -  [AZ-900 Azure fundamentals](https://learn.microsoft.com/en-gb/users/nathanjames-0690/credentials/b4b99515e6d86648)
