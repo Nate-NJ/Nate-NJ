@@ -9,15 +9,15 @@
 
 <h3>Google Cybersecurity Professional Certification Course Projects:</h3>
 
-  - [Conducting an Internal Security Audit]()
-  - [Use the NIST Cybersecurity Framework to Respond to a Security Incident]()
-  - [Use Linux Commands to Manage File Permissions]()
-  - [Apply Filters to SQL Queries]()
-  - [Analyze a Vulnerable System for a Small Business]()
-  - [Document an Incident with an Incident Handler's Journal]()
-  - [Perform a Query with Splunk]()
-  - [Perform a Query with Chronicle]()
-  - [Update a File Through a Python Algorithm]()
+  - [Conducting an Internal Security Audit](https://github.com/Nate-NJ/Google-Cybersecurity-Projects#conducting-an-internal-security-audit-google-cybersecurity-professional-certification)
+  - [Use the NIST Cybersecurity Framework to Respond to a Security Incident](https://github.com/Nate-NJ/Google-Cybersecurity-Projects#use-the-nist-cybersecurity-framework-to-respond-to-a-security-incident-google-cybersecurity-professional-certification)
+  - [Use Linux Commands to Manage File Permissions](https://github.com/Nate-NJ/Google-Cybersecurity-Projects#use-linux-commands-to-manage-file-permissions-google-cybersecurity-professional-certification)
+  - [Apply Filters to SQL Queries](https://github.com/Nate-NJ/Google-Cybersecurity-Projects#apply-filters-to-sql-queries-google-cybersecurity-professional-certification)
+  - [Analyze a Vulnerable System for a Small Business](https://github.com/Nate-NJ/Google-Cybersecurity-Projects#analyze-a-vulnerable-system-for-a-small-business-google-cybersecurity-professional-certification)
+  - [Document an Incident with an Incident Handler's Journal](https://github.com/Nate-NJ/Google-Cybersecurity-Projects#document-an-incident-with-an-incident-handlers-journal-google-cybersecurity-professional-certification)
+  - [Perform a Query with Splunk](https://github.com/Nate-NJ/Perform-a-Query-with-Splunk_/blob/main/README.md)
+  - [Perform a Query with Chronicle](https://github.com/Nate-NJ/Perform-a-Query-with-Chronicle./blob/main/README.md)
+  - [Update a File Through a Python Algorithm](https://github.com/Nate-NJ/Update-a-File-Through-a-Python-Algorithm./blob/main/README.md)
 
 
 <h2>:page_with_curl: Certifications & Certificates:</h2>
