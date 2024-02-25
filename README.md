@@ -18,6 +18,7 @@
   - [Perform a Query with Splunk](https://github.com/Nate-NJ/Perform-a-Query-with-Splunk_/blob/main/README.md)
   - [Perform a Query with Chronicle](https://github.com/Nate-NJ/Perform-a-Query-with-Chronicle./blob/main/README.md)
   - [Update a File Through a Python Algorithm](https://github.com/Nate-NJ/Update-a-File-Through-a-Python-Algorithm./blob/main/README.md)
+  - [Python Algorithms for File Permission Updates]()
 
 
 <h2>:page_with_curl: Certifications & Certificates:</h2>
