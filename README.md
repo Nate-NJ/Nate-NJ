@@ -25,7 +25,7 @@
 
 -  [AZ-900 Azure fundamentals](https://learn.microsoft.com/en-gb/users/nathanjames-0690/credentials/b4b99515e6d86648)
 -  [Introduction to Fortinet Network Security ](https://github.com/Natej2001/pdfs/blob/main/Course_Completion_Certificate.pdf)
--  [Google Cybersecurity Professional Certificate(Expected February) ]()
+-  [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/0b526bdb-21e0-4434-9293-a0c3b36758ef)
 -  [CompTIA Security+(Expected July) ]()
 
 
