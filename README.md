@@ -6,6 +6,8 @@
   - [Honeypot Lab In Azure](https://github.com/Natej2001/HoneyPot-lab-In-Azure)
   - [Cybersecurity Vulnerability Management Project](https://github.com/Nate-NJ/Cybersecurity-Vulnerability-Management-Project)
   - [Cavehill Campus Design and implementation Using Packet Tracer](https://github.com/Natej2001/Campus-Network-Design-Using-Packet-Tracer)
+  -  [Qualys Vulnerability Management HomeLab]()
+
 
 <h3>Google Cybersecurity Professional Certification Course Projects:</h3>
 
