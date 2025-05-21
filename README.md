@@ -30,6 +30,7 @@
 -  [Fortinet FortiGate Operator ](https://www.credly.com/badges/ccead538-365d-4195-b727-a042f2de092d/public_url)
 -  [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/0b526bdb-21e0-4434-9293-a0c3b36758ef)
 -  [CompTIA Security+ ](https://www.credly.com/badges/1d285a8a-3a6b-499b-b9b9-b9fd7d0886ca/public_url)
+-  [Qualys Vulnerability Foundation ]( )
 
 
 
